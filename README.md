@@ -1,15 +1,16 @@
 # Project Overview: VBA Stocks Analysis
 
     As a Data Analysis, Steve asked me to give him an insight into green stocks, to help his parents make investment decisions.
-    To accomplish this, i decided to use  VBA in excel to find the stock's total daily value and annual return. Upon completing the first analysis, i decided to dig     further into analyzing 11 more green stocks to see how the first analysis compare to the second. 
+    To accomplish this, i decided to use  VBA in excel to find the stock's total daily value and annual return.
+    Upon completing the first analysis, i decided to dig further into analyzing 11 more green stocks to see how the first analysis compare to the second. 
     From those analysis, i obtained the information Steve needed to aid his parents to make the best investment decisions.
  
 ## Purpose
     
     The objective of this analysis was to refactor the solution code, to loop through all the data at once in order to collect an entire Dataset.
     After running analysis on 12 different stocks, but higher run time, it was appearent that there was a more effficient way to work with the data given. 
-    In order to make the analysis more efficient, i needed to refactor the code. By refactoring, the logic of the code will improve and make it essier for future       users to read. It will also make the code 
-    run faster and occupy less memory.
+    In order to make the analysis more efficient, i needed to refactor the code. 
+    By refactoring, the logic of the code will improve and make it essier for future users to read. It will also make the code run faster and occupy less memory.
     
 ### Summery
     
@@ -36,4 +37,5 @@
       
 ### Refactoring in VBA script
 
-    The major advantage of refactoring code in VBA script is that you can use as much as of the original code as you want to and can put your new code side by side     with your old code using different modules. The major disadvantage of refactoring code in VBA script is that if you do not have a strong understanding of the       syntax, you will struggle to refactor your code as the syntax matters so much more when trying to make your code more efficient.
+    The major advantage of refactoring code in VBA script is that you can use as much as of the original code as you want to and can put your new code side by side     with your old code using different modules. 
+    The major disadvantage of refactoring code in VBA script is that if you do not have a strong understanding of the syntax, you will struggle to refactor your         code as the syntax matters so much more when trying to make your code more efficient.
