@@ -10,11 +10,13 @@
     The objective of this analysis was to refactor the solution code, to loop through all the data at once in order to collect an entire Dataset.
     After running analysis on 12 different stocks, but higher run time, it was appearent that there was a more effficient way to work with the data given. 
     In order to make the analysis more efficient, i needed to refactor the code. 
-    By refactoring, the logic of the code will improve and make it essier for future users to read. It will also make the code run faster and occupy less memory.
+    By refactoring, the logic of the code will improve and make it essier for future users to read. 
+    It will also make the code run faster and occupy less memory.
     
 ### Summery
     
-    Clutter code can create a stressful working environment for programmer. An organized code is easy to read, easy to understand, and and easy to maintain.
+    Clutter code can create a stressful working environment for programmer.
+    An organized code is easy to read, easy to understand, and and easy to maintain.
     Code Refactoring
     is perform in small steps, make changes to the program, and each of the changes makes the code better and leave the application in a working state.
     
