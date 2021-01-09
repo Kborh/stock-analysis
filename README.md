@@ -34,5 +34,5 @@
       
 ### Refactoring in VBA script
 
-    The major advantage of refactoring code in VBA script is that you can use as much as of the original code as you want to and can put your new code side by side with your old code using different modules.
-    The major disadvantage of refactoring code in VBA script is that if you do not have a strong understanding of the syntax, you will struggle to refactor your code as the syntax matters so much more when trying to make your code more efficient.
+    The major advantage of refactoring code in VBA script is that you can use as much as of the original code as you want to and can put your new code side by side     with your old code using different modules.
+   The major disadvantage of refactoring code in VBA script is that if you do not have a strong understanding of the syntax, you will struggle to refactor your code    as the syntax matters so much more when trying to make your code more efficient.
