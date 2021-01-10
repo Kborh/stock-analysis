@@ -13,6 +13,7 @@
     By refactoring, the logic of the code will improve and make it essier for future users to read. 
     It will also make the code run faster and occupy less memory.
     
+    ![tet_image](Screen Shot 2021-01-09 at 2.02.17 PM.png)    
 ### Summery
     
     Clutter code can create a stressful working environment for programmer.
