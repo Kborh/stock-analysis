@@ -36,7 +36,7 @@
       
       A long procedure may contain the same line of code in several locations, you can change the logic to eliminate the duplicate lines.
       
-      A complex unstructured code is usually best to split in several functions.
+      A complex unstructured code is usually best to split in several functions. 
       
 ### Refactoring in VBA script
 
