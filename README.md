@@ -18,8 +18,7 @@
     
     Clutter code can create a stressful working environment for programmer.
     An organized code is easy to read, easy to understand, and and easy to maintain.
-    Code Refactoring
-    is perform in small steps, make changes to the program, and each of the changes makes the code better and leave the application in a working state.
+    Code Refactoring make changes to the program, and each of the changes makes the code better and leave the application in a better working state.
     
 ### Advantages:
 
