@@ -13,7 +13,7 @@
     By refactoring, the logic of the code will improve and make it essier for future users to read. 
     It will also make the code run faster and occupy less memory.
     
-    ![](https://github.com/Kborh/stock-analysis/commit/256816ff32760f28f1805e06f8ee96a00bbeaea8)    
+       
 ### Summery
     
     Clutter code can create a stressful working environment for programmer.
