@@ -12,7 +12,7 @@
     In order to make the analysis more efficient, i needed to refactor the code. 
     By refactoring, the logic of the code will improve and make it essier for future users to read. 
     It will also make the code run faster and occupy less memory.
-    
+    ![](image/
        
 ### Summery
     
